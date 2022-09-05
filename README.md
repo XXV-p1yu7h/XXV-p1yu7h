@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @XXV-p1yu7h
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi 👋 My name is piyush
+Python Programmer and Black hat hacker
+👋 Hi, I'm Avek 👀 I’m interested in Black Hat 🌱 I’m currently learning Python - JavaScript and Php 📫 People Hate When You Success 😈 Hacktivist
 
-<!---
-XXV-p1yu7h/XXV-p1yu7h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 I'm based in Thane,siliguri
+🖥️ See my portfolio at Website
+✉️ You can contact me at xxv.piyush@gmail.com
+🚀 I'm currently working on Course site
+🧠 I'm learning Database Management
+🤝 I'm open to collaborating on Python Scripting
+⚡ working on youtube video
+Skills
+Python PHP Javascript HTML5 CSS3 Bootstrap Heroku Flask MySQL Django
+
+Socials
+   
+
+### Badges
+My GitHub Stats
+
